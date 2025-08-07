@@ -6,7 +6,7 @@
 
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
-Dersin YZ Asistanı -- [soru sor ve danış](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
+Dersin YZ Asistanı -- [soru sor veya danış](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
 
 # 11 Ağustos 2022, Pazartesi, Oturum 1/1 - Konu Tam Olarak Nedir?
 
@@ -18,11 +18,11 @@ Tanışma, dersin tanıtımı ve genel tartışma
 
 **İzleme:** "Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton" The Diary Of A CEO -- [Youtube Link](https://www.youtube.com/watch?v=giT0ytynSqg)
 
-# 11 Ağustos 2022, Pazartesi, Oturum 1/2
+# 11 Ağustos 2022, Pazartesi, Oturum 2/1
 
 Okuma ve izleme üzerine tartışma
 
-# 12 Ağustos 2022, Salı, Oturum 2/1 - Yaratıcı Yıkım
+# 12 Ağustos 2022, Salı, Oturum 1/2 - Yaratıcı Yıkım
 **Uygulama:** Suno AI -- [Website](https://suno.com/home)
 
 **Okuma:** "AI and Music: Generative Artificial Intelligence in the Music Sector" Gema -- [Website](https://www.gema.de/en/news/ai-study)
@@ -33,28 +33,28 @@ Okuma ve izleme üzerine tartışma
 
 Okuma ve izleme üzerine tartışma
 
-# 13 Ağustos 2022, Çarşamba, Oturum 3/1 - Takip Kapitalizmi
+# 13 Ağustos 2022, Çarşamba, Oturum 1/3 - Takip Kapitalizmi
 
 **Uygulama:** Elicit AI -- [Website](https://elicit.com)
 
 **Okuma:** "The Age of Surveillance Capitalism" Soshana Zuboff -- [PDF Link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003320609-27/age-surveillance-capitalism-shoshana-zuboff)
 
 **İzleme:** "Shoshana Zuboff on Surveillance Capitalism" VPRO Documentary -- [Youtube Link](https://www.youtube.com/watch?v=hIXhnWUmMvw&t=6s)
-# 13 Ağustos 2022, Çarşamba, Oturum 3/2
+# 13 Ağustos 2022, Çarşamba, Oturum 2/3
 
 Okuma ve izleme üzerine tartışma
 
 # 14 Ağustos 2022, Perşembe
 
 Deniz, kum, laga luga
-# 15 Ağustos 2022, Cuma, Oturum 4/1 - Ulus Devletler Karşısında Ulus Şirketler
-# 15 Ağustos 2022, Cuma, Oturum 4/2
+# 15 Ağustos 2022, Cuma, Oturum 1/4 - Ulus Devletler Karşısında Ulus Şirketler
+# 15 Ağustos 2022, Cuma, Oturum 2/4
 
 Okuma ve izleme üzerine tartışma
 
-# 16 Ağustos 2022, Cumartesi, Oturum 5/1 - Ne Yapmalı? Dijital Korumacılık
-# 16 Ağustos 2022, Cumartesi, Oturum 5/2
+# 16 Ağustos 2022, Cumartesi, Oturum 1/5 - Ne Yapmalı? Dijital Korumacılık
+# 16 Ağustos 2022, Cumartesi, Oturum 2/5
 
 Okuma ve izleme üzerine tartışma
 
-# 17 Ağustos 2022, Pazar
+# 17 Ağustos 2022, Pazar, Oturum 6
