@@ -3,7 +3,7 @@
 
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
-# 11 Ağustos 2022, Pazartesi, Oturum 1/1
+# 11 Ağustos 2022, Pazartesi, Oturum 1/1 - Konu Tam Olarak Nedir?
 
 Tanışma ve dersin tanıtımı
 
@@ -17,7 +17,7 @@ Tanışma ve dersin tanıtımı
 
 Okuma ve izleme üzerine tartışma
 
-# 12 Ağustos 2022, Salı, Oturum 2/1
+# 12 Ağustos 2022, Salı, Oturum 2/1 - Yaratıcı Yıkım
 **Uygulama:** Suno AI -- [Website](https://suno.com/home)
 
 **Okuma:** "AI and Music: Generative Artificial Intelligence in the Music Sector" Gema -- [Website](https://www.gema.de/en/news/ai-study)
@@ -28,13 +28,13 @@ Okuma ve izleme üzerine tartışma
 
 Okuma ve izleme üzerine tartışma
 
-# 13 Ağustos 2022, Çarşamba, Oturum 3/1
+# 13 Ağustos 2022, Çarşamba, Oturum 3/1 - Takip Kapitalizmi
 
 **Uygulama:** 
 
-**Okuma:**
+**Okuma:** "The Age of Surveillance Capitalism" Soshana Zuboff -- [PDF Link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003320609-27/age-surveillance-capitalism-shoshana-zuboff)
 
-**İzleme:** 
+**İzleme:** "Shoshana Zuboff on surveillance capitalism" VPRO Documentary -- [Youtube Link](https://www.youtube.com/watch?v=hIXhnWUmMvw&t=6s)
 # 13 Ağustos 2022, Çarşamba, Oturum 3/2
 
 Okuma ve izleme üzerine tartışma
@@ -42,11 +42,14 @@ Okuma ve izleme üzerine tartışma
 # 14 Ağustos 2022, Perşembe
 
 Deniz, kum, laga luga
-# 15 Ağustos 2022, Cuma, Oturum 4/1
+# 15 Ağustos 2022, Cuma, Oturum 4/1 - Ulus Devletler Karşısında Ulus Şirketler
 # 15 Ağustos 2022, Cuma, Oturum 4/2
 
 Okuma ve izleme üzerine tartışma
 
-# 16 Ağustos 2022, Cumartesi, Oturum 5/1
+# 16 Ağustos 2022, Cumartesi, Oturum 5/1 - Dijital Korumacılık
 # 16 Ağustos 2022, Cumartesi, Oturum 5/2
+
+Okuma ve izleme üzerine tartışma
+
 # 17 Ağustos 2022, Pazar
