@@ -4,18 +4,49 @@
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
 # 11 Ağustos 2022, Pazartesi, Oturum 1/1
-## Uygulama ## Notebook LM
-## Okuma:
-## İzleme
+
+Tanışma ve dersin tanıtımı
+
+**Uygulama:** Notebook LM -- [Website](https://notebooklm.google)
+
+**Okuma:** Daron Acemoğlu. 2024. "The Simple Macroeconomics of AI" -- [PDF Link](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
+
+**İzleme:** "Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton" The Diary Of A CEO -- [Youtube Link](https://www.youtube.com/watch?v=giT0ytynSqg)
 
 # 11 Ağustos 2022, Pazartesi, Oturum 1/2
+
+Okuma ve izleme üzerine tartışma
+
 # 12 Ağustos 2022, Salı, Oturum 2/1
+**Uygulama:** Suno AI -- [Website](https://suno.com/home)
+
+**Okuma:** "AI and Music: Generative Artificial Intelligence in the Music Sector" Gema -- [Website](https://www.gema.de/en/news/ai-study)
+
+**İzleme:** "They Stole My Music and My Money" Chords of Orion -- [Youtube Link](https://www.youtube.com/watch?v=_nI1anZYuIo)
+
 # 12 Ağustos 2022, Salı, Oturum 2/2
+
+Okuma ve izleme üzerine tartışma
+
 # 13 Ağustos 2022, Çarşamba, Oturum 3/1
+
+**Uygulama:** 
+
+**Okuma:**
+
+**İzleme:** 
 # 13 Ağustos 2022, Çarşamba, Oturum 3/2
+
+Okuma ve izleme üzerine tartışma
+
 # 14 Ağustos 2022, Perşembe
+
+Deniz, kum, laga luga
 # 15 Ağustos 2022, Cuma, Oturum 4/1
 # 15 Ağustos 2022, Cuma, Oturum 4/2
+
+Okuma ve izleme üzerine tartışma
+
 # 16 Ağustos 2022, Cumartesi, Oturum 5/1
 # 16 Ağustos 2022, Cumartesi, Oturum 5/2
 # 17 Ağustos 2022, Pazar
