@@ -1,5 +1,8 @@
 # Kod ve Sermaye: Yapay Zekânın Politik Ekonomisi
-11-17 Ağustos 2025 tarihleri arasında İzmir Foça'daki Bilimler Köyü'nde verdiğim dersin dokümanları.
+
+[Altuğ Yalçıntaş](https://ayalcintas.notion.site), Ankara Üniversitesi, Politika ve Ekonomi Bölümü
+
+11-17 Ağustos 2025 tarihleri arasında İzmir Foça'daki Bilimler Köyü'ndeki etkinliğin web dokümanları ve bağlantıları.
 
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
