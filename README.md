@@ -6,13 +6,15 @@
 
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
+Dersin YZ Asistanı -- [soru sor ve danış](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
+
 # 11 Ağustos 2022, Pazartesi, Oturum 1/1 - Konu Tam Olarak Nedir?
 
 Tanışma, dersin tanıtımı ve genel tartışma
 
 **Uygulama:** Notebook LM -- [Website](https://notebooklm.google)
 
-**Okuma:** Daron Acemoğlu. 2024. "The Simple Macroeconomics of AI" -- [PDF Link](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
+**Okuma:** ChatGPT ile yanlı (_biased_) cevaplar üzerine bir sohbot -- [oku](https://chatgpt.com/share/6894b04a-9620-800a-9dcb-4e13df4ed6da)
 
 **İzleme:** "Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton" The Diary Of A CEO -- [Youtube Link](https://www.youtube.com/watch?v=giT0ytynSqg)
 
