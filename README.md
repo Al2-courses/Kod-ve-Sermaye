@@ -8,7 +8,7 @@ Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken
 
 # 11 Ağustos 2022, Pazartesi, Oturum 1/1 - Konu Tam Olarak Nedir?
 
-Tanışma ve dersin tanıtımı
+Tanışma, dersin tanıtımı ve genel tartışma
 
 **Uygulama:** Notebook LM -- [Website](https://notebooklm.google)
 
@@ -33,11 +33,11 @@ Okuma ve izleme üzerine tartışma
 
 # 13 Ağustos 2022, Çarşamba, Oturum 3/1 - Takip Kapitalizmi
 
-**Uygulama:** 
+**Uygulama:** Elicit AI -- [Website](https://elicit.com)
 
 **Okuma:** "The Age of Surveillance Capitalism" Soshana Zuboff -- [PDF Link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003320609-27/age-surveillance-capitalism-shoshana-zuboff)
 
-**İzleme:** "Shoshana Zuboff on surveillance capitalism" VPRO Documentary -- [Youtube Link](https://www.youtube.com/watch?v=hIXhnWUmMvw&t=6s)
+**İzleme:** "Shoshana Zuboff on Surveillance Capitalism" VPRO Documentary -- [Youtube Link](https://www.youtube.com/watch?v=hIXhnWUmMvw&t=6s)
 # 13 Ağustos 2022, Çarşamba, Oturum 3/2
 
 Okuma ve izleme üzerine tartışma
@@ -50,7 +50,7 @@ Deniz, kum, laga luga
 
 Okuma ve izleme üzerine tartışma
 
-# 16 Ağustos 2022, Cumartesi, Oturum 5/1 - Dijital Korumacılık
+# 16 Ağustos 2022, Cumartesi, Oturum 5/1 - Ne Yapmalı? Dijital Korumacılık
 # 16 Ağustos 2022, Cumartesi, Oturum 5/2
 
 Okuma ve izleme üzerine tartışma
