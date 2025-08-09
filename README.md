@@ -6,9 +6,11 @@
 
 Bu etkinlik, dijital teknolojilerin iktisadi ve siyasal sonuçlarını (üretken) yapay zekâya odaklanarak incelemeyi amaçlamaktadır. 1960’larda başlayan bu teknolojik dönüşüm, dünyayı ağ temelli bir ekonomiye dönüştürmüş, piyasaları ve bürokrasileri kökten değiştirmiştir. Peki bugün dijital piyasalar “görünmez el” prensiplerine bağlı mıdır? Ulus-devletler, birer tekel haline gelen ulus-şirketler karşısında hukukun üstünlüğünü inşa etme gücüne sahip midir? En önemlisi: Dijitalleşme çağında kapitalizm hayatta kalabilir mi?
 
-Temel araştırma sorumuz: Teknolojinin (ferdi) mülkiyeti kime ait? Teknolojiye kim sahip?
-Temel sorunumuz: Fiyatlar = 0, Kârlar > 0
-Yöntem: Thorstein Veblen, Veblenci dikotomi ve birikimli nedensellik
+**Temel araştırma sorumuz**: Teknolojinin (ferdi) mülkiyeti kime ait? Teknolojiye kim sahip?
+
+**Temel sorunumuz**: Fiyatlar = 0, Kârlar > 0
+
+**Yöntem**: Thorstein Veblen, Veblenci dikotomi ve birikimli nedensellik
 
 Dersin YZ Asistanı -- [soru sor veya danış](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
 
